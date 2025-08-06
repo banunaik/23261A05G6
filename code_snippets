@@ -1,6 +1,10 @@
-## 🛠️ Skills & Tools
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# Code Snippet Library
+## �� Python Snippets
+- [Loops in Python](loops.py)
+- [Recursion Example](recursion.py)
+## ☕ Java Snippets
+- [OOP Demo](OOPDemo.java)
+- [Sorting Techniques](Sorting.java)
+## �� JavaScript Snippets
+- [DOM Manipulation](dom-manipulation.js)
+- [Fetch API Example](fetchAPI.js)
