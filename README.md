@@ -1,4 +1,4 @@
-# �� Hi there, I&#39;m Renuka!- �� I’m passionate about Full Stack Development
+# Hi there , Im banuprasad- �� I’m passionate about Full Stack Development
 Cybersecurity- �� Currently learning: Spring Boot, MongoDB, and GitHub Actions
 �� Fun Fact: I once debugged a 50-line error just by adding a semicolon
 ## ��️ Skills &amp; Tools
@@ -12,8 +12,8 @@ badge&amp;logo=mongodb&amp;logoColor=white)
 badge&amp;logo=git&amp;logoColor=white)
 ## �� GitHub Stats
 ![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
+stats.vercel.app/api?username=banunaik&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
-langs/?username=renukacsit&amp;layout=compact)
-## �� Connect with Me- ✉️ Email: renuka@example.com- �� LinkedIn: [Renu
-Profile](https://linkedin.com/in/renuka-example)
+langs/?username=banunaik&amp;layout=compact)
+## �� Connect with Me- ✉️ Email: mbanuprasadnaikcse_2305g6@mgit.ac.in- �� LinkedIn: [Banu
+Profile](https://linkedin.com/in/Banu-example)
