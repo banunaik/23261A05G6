@@ -17,3 +17,4 @@ stats.vercel.app/api?username=banunaik&amp;show_icons=true&amp;theme=radical)
 langs/?username=banunaik&amp;layout=compact)
 ## �� Connect with Me- ✉️ Email: mbanuprasadnaikcse_2305g6@mgit.ac.in- �� LinkedIn: [Banu
 Profile](https://linkedin.com/in/Banu-example)
+![Static Badge](https://img.shields.io/badge/README.md?style=plastic&label=java&labelColor=rgb&color=rgbahex)
